@@ -34,11 +34,11 @@ const productData = {
   },
   CerealTubMega: {
     title: 'CerealTub MEGA',
-    text: 'Linha com copos em materiais cristais e translúcidos, proporcionando mais brilho, destaque e visibilidade ao produto. Une praticidade e um visual moderno em uma única embalagem. Valor: R$ 20,57.'
+    text: 'Linha com copos em materiais cristais e translúcidos, proporcionando mais brilho, destaque e visibilidade ao produto. Une praticidade e um visual moderno em uma única embalagem.'
   },
   CerealTubEco: {
     title: 'CerealTub ECO',
-    text: 'Linha sustentável, desenvolvida com foco em maior durabilidade e praticidade. Uma opção funcional e consciente, mantendo a qualidade e a praticidade do CerealTub. Valor: R$ 20,90.'
+    text: 'Linha sustentável, desenvolvida com foco em maior durabilidade e praticidade. Uma opção funcional e consciente, mantendo a qualidade e a praticidade do CerealTub.'
   }
 };
 
